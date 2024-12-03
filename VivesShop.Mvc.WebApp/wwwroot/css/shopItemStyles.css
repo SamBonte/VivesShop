@@ -1,0 +1,15 @@
+﻿body {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.shopItem {
+    background-color: lightgray;
+    list-style: none;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+}

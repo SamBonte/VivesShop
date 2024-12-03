@@ -1,0 +1,7 @@
+﻿@model Product
+
+<li class="shopItem">
+    <p>@Model.ProductName (€ @Model.ProductPrice) <button class="btn btn-sm float-right" onclick="addToCart('@Model.ProductName', @Model.ProductPrice)">+</button></p>
+</li>
+
+
